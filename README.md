@@ -7,6 +7,7 @@ First copy the files server_tftp.c & makefile into a common folder.
 Next, run the command make on the terminal.
 Start the server by the command : 
 ```bash
+$ make
 $ ./server localhost <port no.>
 ```
 Usage will be displayed to help run the code.
